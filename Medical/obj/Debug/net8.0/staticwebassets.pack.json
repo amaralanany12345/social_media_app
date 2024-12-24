@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Medical\\Medical\\wwwroot\\Images\\Decision-making Tree - export (5).png",
+      "PackagePath": "staticwebassets\\Images\\Decision-making Tree - export (5).png"
+    },
+    {
+      "Id": "D:\\Medical\\Medical\\wwwroot\\Images\\Screenshot 2024-02-20 134036.png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot 2024-02-20 134036.png"
+    },
+    {
+      "Id": "D:\\Medical\\Medical\\wwwroot\\Images\\newLogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\newLogo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Medical.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Medical.props",
+      "PackagePath": "build\\Medical.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Medical.props",
+      "PackagePath": "buildMultiTargeting\\Medical.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Medical.props",
+      "PackagePath": "buildTransitive\\Medical.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

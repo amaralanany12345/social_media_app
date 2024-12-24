@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "CpGR0gsh6ddLru2jcuWOiPwaTSAZfzJwVmu+CBqAwXo=",
+  "Source": "Medical",
+  "BasePath": "_content/Medical",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Medical\\wwwroot",
+      "Source": "Medical",
+      "ContentRoot": "D:\\Medical\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Medical\\Medical\\wwwroot\\Images\\Decision-making Tree - export (5).png",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Medical\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "Images/Decision-making Tree - export (5).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Decision-making Tree - export (5).png"
+    },
+    {
+      "Identity": "D:\\Medical\\Medical\\wwwroot\\Images\\newLogo.jpg",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Medical\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "Images/newLogo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\newLogo.jpg"
+    },
+    {
+      "Identity": "D:\\Medical\\Medical\\wwwroot\\Images\\Screenshot 2024-02-20 134036.png",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Medical\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "Images/Screenshot 2024-02-20 134036.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Screenshot 2024-02-20 134036.png"
+    }
+  ]
+}
